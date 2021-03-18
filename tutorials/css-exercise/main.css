@@ -1,0 +1,26 @@
+main {
+    background-color:#FFFFE0;
+    border: solid 3px #A52A2A;
+    width: 385px;
+    padding: 10px;
+}
+
+.foxy-grandpa {
+    height: 100px;
+    width: 300px;
+    border: solid 5px #FFA500;
+}
+
+.text-box {
+    background: #FFFF00;
+    border: dashed 5px #FFA500;
+    max-height: 200px;
+    width: 300px;
+    overflow-y: scroll;
+    margin-top: 20px;
+}
+
+.text-1 {
+    text-decoration: underline;
+    font-weight: bold;
+}
